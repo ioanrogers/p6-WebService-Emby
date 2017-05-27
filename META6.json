@@ -1,0 +1,14 @@
+{
+    "perl" : "6.c",
+    "name" : "WebService::Emby",
+    "version" : "0.20171470",
+    "description" : "Interact with an Emby server",
+    "authors" : [ "Ioan Rogers" ],
+    "license" : "Artistic-2.0",
+    "provides" : {
+        "WebService::Emby" : "lib/WebService/Emby.pm6"
+    },
+    "depends" : [ ],
+    "resources" : [ ],
+    "source-url" : "https://github.com/ioanrogers/p6-WebService-Emby.git"
+}
